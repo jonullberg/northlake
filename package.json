@@ -1,0 +1,23 @@
+{
+  "name": "northlake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonullberg/northlake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonullberg/northlake/issues"
+  },
+  "homepage": "https://github.com/jonullberg/northlake",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
